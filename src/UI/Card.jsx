@@ -1,4 +1,3 @@
-
 const Card = ({className, children}) => {
   return (
     <article className={`card ${className}`}>
@@ -6,5 +5,3 @@ const Card = ({className, children}) => {
     </article>
   )
 }
-
-export default Card
