@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import Logo from '../images/logo.png'
+import Logo from '../images/셔틀콕.jpeg'
 import {FaLinkedin, FaFacebookF} from 'react-icons/fa'
 import {AiOutlineTwitter, AiFillInstagram} from 'react-icons/ai'
 

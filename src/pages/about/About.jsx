@@ -1,8 +1,8 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/MJS/4firstCoupleClothes.jpg'
-import StoryImage from '../../images/MJS/0ring.jpg'
-import VisionImage from '../../images/MJS/5firstCoupleBag.jpg'
-import MissionImage from '../../images/MJS/15coupleMintonShoes.jpg'
+import HeaderImage from '../../images/눈풍경.jpeg'
+import StoryImage from '../../images/노트.jpeg'
+import VisionImage from '../../images/돋보기.jpeg'
+import MissionImage from '../../images/카메라.jpeg'
 import './about.css'
 
 

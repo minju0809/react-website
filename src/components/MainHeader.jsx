@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import Image from '../images/mincho/구로누리 전체1.jpg'
+import Image from '../images/badminton/구로누리 전체1.jpg'
 
 const MainHeader = () => {
   return (

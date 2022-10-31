@@ -1,5 +1,5 @@
 import Header from "../../components/Header";
-import HeaderImage from "../../images/logo.png";
+import HeaderImage from "../../images/image6.jpeg";
 import Card from "../../UI/Card";
 import { plans } from "../../data";
 import "./plans.css";

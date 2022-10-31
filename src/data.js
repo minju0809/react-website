@@ -127,35 +127,35 @@ export const testimonials = [
     name: `Diana Ayi`,
     quote: 'Lorem ipsum dolor sit amet consectetur adipisicing dlit.',
     job: 'Student',
-    avatar: require('./images/MJS/0header1.jpg')
+    avatar: require('./images/레몬.jpeg')
   },
   {
     id: 2,
     name: `Diana Vinyo`,
     quote: 'Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam?.',
     job: 'Software Egineer',
-    avatar: require('./images/MJS/0header2.jpg')
+    avatar: require('./images/바나나.jpeg')
   },
   {
     id: 3,
     name: `Edam Quist`,
     quote: 'Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam?',
     job: 'University Lecturer',
-    avatar: require('./images/MJS/6flex.jpg')
+    avatar: require('./images/사과.jpeg')
   },
   {
     id: 4,
     name: `Grace Lavoe`,
     quote: 'Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam?',
     job: 'Talking Parrot',
-    avatar: require('./images/MJS/7firstTrip_Jeju.jpg')
+    avatar: require('./images/수박.jpeg')
   },
   {
     id: 5,
     name: `Nana Yaa Dankwa`,
     quote: 'Maxime minima cumque sit amet consectetur adipisicing elit.',
     job: 'Pharmacist',
-    avatar: require('./images/MJS/10완선Wedding1.jpg')
+    avatar: require('./images/오렌지.jpeg')
   }
 ]
 
@@ -227,12 +227,12 @@ export const plans = [
 ]
 
 
-const Trainer1 = require('./images/MJS/8incheon.jpg')
-const Trainer2 = require('./images/MJS/9secondTrip_Busan,Gyeongju.jpg')
-const Trainer3 = require('./images/MJS/10완선Wedding1.jpg')
-const Trainer4 = require('./images/MJS/11완선Wedding2.jpg')
-const Trainer5 = require('./images/MJS/12완선Wedding3.jpg')
-const Trainer6 = require('./images/MJS/KakaoTalk_20220502_220450540.jpg')
+const Trainer1 = require('./images/레몬.jpeg')
+const Trainer2 = require('./images/바나나.jpeg')
+const Trainer3 = require('./images/사과.jpeg')
+const Trainer4 = require('./images/수박.jpeg')
+const Trainer5 = require('./images/오렌지.jpeg')
+const Trainer6 = require('./images/포도.jpeg')
 
 export const trainers = [
   {

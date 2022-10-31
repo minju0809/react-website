@@ -1,4 +1,4 @@
-import Image from '../images/mincho/구로누리 레슨.jpg'
+import Image from '../images/badminton/구로누리 레슨.jpg'
 import SectionHead from './SectionHead'
 import {GiCutDiamond} from 'react-icons/gi'
 import { values } from '../data'
